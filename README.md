@@ -1,2 +1,0 @@
-# HOLACESAR
-mi primer repositorio
